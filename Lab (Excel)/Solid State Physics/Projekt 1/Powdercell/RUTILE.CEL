@@ -1,0 +1,22 @@
+cell   4.5940   4.5940   2.9590  90.0000  90.0000  90.0000
+natom   2
+Ti1   22   .0000   .0000   .0000
+O1     8   .3048   .3048   .0000
+rgnr  136
+
+
+ICSD
+ COL  Collection Code 23697 (recorded Sep 24, 1986; updated Sep 24, 1986)
+ NAME Titanium oxide
+ MINR Rutile
+ FORM Ti O2
+ TITL Gutile: Normal Probability Plot Analysis and Accurate Measurement 
+      of Crystal Structure
+ REF  JCPSA 55 (1971) 3206-3211
+ AUT  Abrahams S C, Bernstein J L
+
+ CELL a=4.594(0) b=4.594(0) c=2.959(0) à=90.0 á=90.0 ç=90.0
+      V=62.4 D=4.25(0) Z=2
+ SGR  P 42/m n m    (136) - tetragonal
+ REM  TEM 298
+ RVAL 0.029

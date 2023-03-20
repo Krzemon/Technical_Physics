@@ -1,0 +1,671 @@
+sub=3   6
+P 1 2 1
+P 1 2 1
+P 1 1 2
+P 1 1 2
+P 2 1 1
+P 2 1 1
+
+sub=4   6
+P 1 2_1 1
+P 1 2_1 1
+P 1 1 2_1
+P 1 1 2_1
+P 2_1 1 1
+P 2_1 1 1
+
+sub=5  18
+C 1 2 1
+A 1 2 1
+A 1 1 2
+B 1 1 2
+B 2 1 1
+C 2 1 1
+A 1 2 1
+C 1 2 1
+B 1 1 2
+A 1 1 2
+C 2 1 1
+B 2 1 1
+I 1 2 1
+I 1 2 1
+I 1 1 2
+I 1 1 2
+I 2 1 1
+I 2 1 1
+
+sub=6   6
+P 1 m 1
+P 1 m 1
+P 1 1 m
+P 1 1 m
+P m 1 1
+P m 1 1
+
+sub=7  18
+P 1 c 1
+P 1 a 1
+P 1 1 a
+P 1 1 b
+P b 1 1
+P c 1 1
+P 1 n 1
+P 1 n 1
+P 1 1 n
+P 1 1 n
+P n 1 1
+P n 1 1
+P 1 a 1
+P 1 c 1
+P 1 1 b
+P 1 1 a
+P c 1 1
+P b 1 1
+
+sub=8  18
+C 1 m 1
+A 1 m 1
+A 1 1 m
+B 1 1 m
+B m 1 1
+C m 1 1
+A 1 m 1
+C 1 m 1
+B 1 1 m
+A 1 1 m
+C m 1 1
+B m 1 1
+I 1 m 1
+I 1 m 1
+I 1 1 m
+I 1 1 m
+I m 1 1
+I m 1 1
+
+sub=9  18
+C 1 c 1
+A 1 a 1
+A 1 1 a
+B 1 1 b
+B b 1 1
+C c 1 1
+A 1 n 1
+C 1 n 1
+B 1 1 n
+A 1 1 n
+C n 1 1
+B n 1 1
+I 1 a 1
+I 1 c 1
+I 1 1 b
+I 1 1 a
+I c 1 1
+I b 1 1
+
+sub=10  6
+P 1 2/m 1
+P 1 2/m 1
+P 1 1 2/m
+P 1 1 2/m
+P 2/m 1 1
+P 2/m 1 1
+
+sub=11  6
+P 1 2_1/m 1
+P 1 2_1/m 1
+P 1 1 2_1/m
+P 1 1 2_1 m
+P 2_1/m 1 1
+P 2_1/m 1 1
+
+sub=12 18
+C 1 2/m 1
+A 1 2/m 1
+A 1 1 2/m
+B 1 1 2/m
+B 2/m 1 1
+C 2/m 1 1
+A 1 2/m 1
+C 1 2/m 1
+B 1 1 2/m
+A 1 1 2/m
+C 2/m 1 1
+B 2/m 1 1
+I 1 2/m 1
+I 1 2/m 1
+I 1 1 2/m
+I 1 1 2/m
+I 2/m 1 1
+I 2/m 1 1
+
+sub=13 18
+P 1 2/c 1
+P 1 2/a 1
+P 1 1 2/a
+P 1 1 2/b
+P 2/b 1 1
+P 2/c 1 1
+P 1 2/n 1
+P 1 2/n 1
+P 1 1 2/n
+P 1 1 2/n
+P 2/n 1 1
+P 2/n 1 1
+P 1 2/a 1
+P 1 2/c 1
+P 1 1 2/b
+P 1 1 2/a
+P 2/c 1 1
+P 2/b 1 1
+
+sub=14 18
+P 1 2_1/c 1
+P 1 2_1/a 1
+P 1 1 2_1/a
+P 1 1 2_1/b
+P 2_1/b 1 1
+P 2_1/c 1 1
+P 1 2_1/n 1
+P 1 2_1/n 1
+P 1 1 2_1/n
+P 1 1 2_1/n
+P 2_1/n 1 1
+P 2_1/n 1 1
+P 1 2_1/a 1
+P 1 2_1/c 1
+P 1 1 2_1/b
+P 1 1 2_1/a
+P 2_1/c 1 1
+P 2_1/b 1 1
+
+sub=15 18 
+C 1 2/c 1
+A 1 2/a 1
+A 1 1 2/a
+B 1 1 2/b
+B 2/b 1 1
+C 2/c 1 1
+A 1 2/n 1
+C 1 2/n 1
+B 1 1 2/n
+A 1 1 2/n
+C 2/n 1 1
+B 2/n 1 1
+I 1 2/a 1
+I 1 2/c 1
+I 1 1 2/b
+I 1 1 2/a
+I 2/c 1 1
+I 2/b 1 1
+
+sub=16  6
+P 2 2 2
+P 2 2 2
+P 2 2 2
+P 2 2 2
+P 2 2 2
+P 2 2 2
+
+sub=17  6
+P 2 2 2_1
+P 2 2 2_1
+P 2_1 2 2
+P 2_1 2 2
+P 2 2_1 2
+P 2 2_1 2
+
+sub=18  6
+P 2_1 2_1 2
+P 2_1 2_1 2
+P 2 2_1 2_1
+P 2 2_1 2_1
+P 2_1 2 2_1
+P 2_1 2 2_1
+
+sub=19  6
+P 2_1 2_1 2_1
+P 2_1 2_1 2_1
+P 2_1 2_1 2_1
+P 2_1 2_1 2_1
+P 2_1 2_1 2_1
+P 2_1 2_1 2_1
+
+sub=20  6
+C 2 2 2_1
+C 2 2 2_1
+A 2_1 2 2
+A 2_1 2 2
+B 2 2_1 2
+B 2 2_1 2
+
+sub=21  6
+C 2 2 2
+C 2 2 2
+A 2 2 2
+A 2 2 2
+B 2 2 2
+B 2 2 2
+
+sub=22  6
+F 2 2 2
+F 2 2 2
+F 2 2 2
+F 2 2 2
+F 2 2 2
+F 2 2 2
+
+sub=23  6
+I 2 2 2
+I 2 2 2
+I 2 2 2
+I 2 2 2
+I 2 2 2
+I 2 2 2
+
+sub=24  6
+I 2_1 2_1 2_1
+I 2_1 2_1 2_1
+I 2_1 2_1 2_1
+I 2_1 2_1 2_1
+I 2_1 2_1 2_1
+I 2_1 2_1 2_1
+
+sub=25  6
+P m m 2
+P m m 2
+P 2 m m
+P 2 m m
+P m 2 m
+P m 2 m
+
+sub=26  6
+P m c 2_1
+P c m 2_1
+P 2_1 m a
+P 2_1 a m
+P b 2_1 m
+P m 2_1 b
+
+sub=27  6
+P c c 2
+P c c 2
+P 2 a a
+P 2 a a
+P b 2 b
+P b 2 b
+
+sub=28  6
+P m a 2
+P b m 2
+P 2 m b
+P 2 c m
+P c 2 m
+P m 2 a
+
+sub=29  6
+P c a 2_1
+P b c 2_1
+P 2_1 a b
+P 2_1 c a
+P c 2_1 b
+P b 2_1 a
+
+sub=30  6
+P n c 2
+P c n 2
+P 2 n a
+P 2 a n
+P b 2 n
+P n 2 b
+
+sub=31  6
+P m n 2_1
+P n m 2_1
+P 2_1 m n
+P 2_1 n m
+P n 2_1 m
+P m 2_1 n
+
+sub=32  6
+P b a 2
+P b a 2
+P 2 c b
+P 2 c b
+P c 2 a
+P c 2 a
+
+sub=33  6
+P n a 2_1
+P b n 2_1
+P 2_1 n b
+P 2_1 c n
+P c 2_1 n
+P n 2_1 a
+
+sub=34  6
+P n n 2
+P n n 2
+P 2 n n
+P 2 n n
+P n 2 n
+P n 2 n
+
+sub=35  6
+C m m 2
+C m m 2
+A 2 m m
+A 2 m m
+B m 2 m
+B m 2 m
+
+sub=36  6
+C m c 2_1
+C c m 2_1
+A 2_1 m a
+A 2_1 a m
+B b 2_1 m
+B m 2_1 b
+
+sub=37  6
+C c c 2
+C c c 2
+A 2 a a
+A 2 a a
+B b 2 b
+B b 2 b
+
+sub=38  6
+A m m 2
+B m m 2
+B 2 m m
+C 2 m m
+C m 2 m
+A m 2 m
+
+sub=39  6
+A b m 2
+B m a 2
+B 2 c m
+C 2 m b
+C m 2 a
+A c 2 m
+
+sub=40  6
+A m a 2
+B b m 2
+B 2 m b
+C 2 c m
+C c 2 m
+A m 2 a
+
+sub=41  6
+A b a 2
+B b a 2
+B 2 c b
+C 2 c b
+C c 2 a
+A c 2 a
+
+sub=42  6
+F m m 2
+F m m 2
+F 2 m m
+F 2 m m
+F m 2 m
+F m 2 m
+
+sub=43  6
+F d d 2
+F d d 2
+F 2 d d
+F 2 d d
+F d 2 d
+F d 2 d
+
+sub=44  6
+I m m 2
+I m m 2
+I 2 m m 
+I 2 m m
+I m 2 m
+I m 2 m
+
+sub=45  6
+I b a 2
+I b a 2
+I 2 c b
+I 2 c b
+I c 2 a 
+I c 2 a
+
+sub=46  6
+I m a 2
+I b m 2
+I 2 m b
+I 2 c m
+I c 2 m
+I m 2 a
+
+sub=47  6
+P m m m
+P m m m
+P m m m
+P m m m
+P m m m
+P m m m
+
+sub=48  6
+P n n n
+P n n n
+P n n n
+P n n n
+P n n n
+P n n n
+
+sub=49  6
+P c c m
+P c c m
+P m a a
+P m a a
+P b m b
+P b m b
+
+sub=50  6
+P b a n
+P b a n
+P n c b
+P n c b
+P c n a
+P c n a
+
+sub=51  6
+P m m a
+P m m b
+P b m m
+P c m m
+P m c m
+P m a m
+
+sub=52  6
+P n n a
+P n n b
+P b n n
+P c n n
+P n c n
+P n a n
+
+sub=53  6
+P m n a
+P n m b
+P b m n
+P c n m
+P n c m
+P m a n
+
+sub=54  6
+P c c a
+P c c b
+P b a a
+P c a a
+P b c b
+P b a b
+
+sub=55  6
+P b a m
+P b a m
+P m c b
+P m c b
+P c m a
+P c m a
+
+sub=56  6
+P c c n
+P c c n
+P n a a
+P n a a
+P b n b
+P b n b
+
+sub=57  6
+P b c m
+P c a m
+P m c a
+P m a b
+P b m a
+P c m b
+
+sub=58  6
+P n n m
+P n n m
+P m n n
+P m n n
+P n m n
+P n m n
+
+sub= 59  6
+P m m n
+P m m n
+P n m m
+P n m m
+P m n m
+P m n m
+
+sub=60  6
+P b c n
+P c a n
+P n c a 
+P n a b
+P b n a
+P c n b
+
+sub=61  6
+P b c a
+P c a b
+P b c a
+P c a b
+P b c a
+P c a b
+
+sub=62  6
+P n m a
+P m n b
+P b n m
+P c m n
+P m c n
+P n a m
+
+sub=63  6
+C m c m
+C c m m
+A m m a
+A m a m
+B b m m
+B m m b
+
+sub=64  6
+C m c a
+C c m b
+A b m a
+A c a m
+B b c m
+B m a b
+
+sub=65  6
+C m m m
+C m m m
+A m m m
+A m m m
+B m m m
+B m m m
+
+sub=66  6
+C c c m
+C c c m
+A m a a
+A m a a
+B b m b
+B b m b
+
+sub=67  6
+C m m a
+C m m b
+A b m m
+A c m m
+B m c m
+B m a m
+
+sub=68  6
+C c c a
+C c c b
+A b a a
+A c a a
+B b c b
+B b a b
+
+sub=69  6
+F m m m
+F m m m
+F m m m
+F m m m
+F m m m
+F m m m
+
+sub=70  6
+F d d d
+F d d d
+F d d d
+F d d d
+F d d d
+F d d d
+
+sub=71  6
+I m m m
+I m m m
+I m m m
+I m m m
+I m m m
+I m m m
+
+sub=72  6
+I b a m
+I b a m
+I m c b
+I m c b
+I c m a
+I c m a
+
+sub=73  6
+I b c a
+I c a b
+I b c a
+I c a b
+I b c a
+I c a b
+
+sub=74  6
+I m m a
+I m m b
+I b m m
+I c m m
+I m c m
+I m a m

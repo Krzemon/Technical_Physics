@@ -1,0 +1,769 @@
+ COL  ICSD Collection Code 10404
+ DATE Recorded Jan 1, 1980; updated Jun 5, 1984
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Binnenthal, Switzerland
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ TITL Structural refinements of dolomite and a magnesian calcite and 
+      implications for dolomite formation in the marine environment
+ REF  American Mineralogist
+      AMMIA 62 (1977) 772-783
+ REF  American Mineralogist
+      AMMIA 44 (1959) 679-682
+ AUT  Althoff P L
+ CELL a=4.803 b=4.803 c=15.984 à=90.0 á=90.0 ç=120.0
+      V=319.4 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.     -0.2423
+      O      1 -2.000   18f  0.2829  0.035  -0.24397
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0055  0.0055  0.0004  0.0027  0.0000  0.0000
+      Mg 1    0.0041  0.0041  0.0004  0.0021  0.0000  0.0000
+      C  1    0.0050  0.0050  0.0001  0.0025  0.0000  0.0000
+      O  1    0.0041  0.0100  0.0008  0.0041 -0.0003 -0.0009
+ REM  REF (refinement of earlier measured intensity data)
+ RVAL 0.045
+ TEST At least one temperature factor is implausible or meaningless but 
+      agrees with the value given in the paper. (Code 52)
+
+ COL  ICSD Collection Code 27540
+ DATE Recorded Jan 1, 1980
+ NAME Calcium magnesium carbonate
+ MINR Dolomite
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ TITL Refinement of the crystal structure of dolomite
+ REF  American Mineralogist
+      AMMIA 44 (1959) 679-682
+ AUT  Steinfink H, SansÿFÿJ
+ CELL a=4.815 b=4.815 c=16.119 à=90.0 á=90.0 ç=120.0
+      V=323.6 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2435
+      O      1 -2.000   18f  0.2374 -0.0347  0.244
+ WYCK f c b a
+ ITF  Ca  1   B=0.37
+ ITF  Mg  1   B=0.2
+ ITF  C   1   B=0.62
+ ITF  O   1   B=0.59
+ RVAL 0.093
+
+ COL  ICSD Collection Code 31209
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg0.987 Mn0.002 Fe0.001 (C O3)2
+ TITL Structure refinement of some thermally disordered dolomites
+ REF  American Mineralogist
+      AMMIA 68 (1983) 769-776
+ AUT  Reeder R J, WenkÿHÿR
+ CELL a=4.804 b=4.804 c=16.006 à=90.0 á=90.0 ç=120.0
+      V=319.9 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.        0.9989(4)
+      Mg     1  2.000    3a  0.      0.      0.        0.0011
+      Ca     2  2.000    3b  0.      0.      1/2       0.0025
+      Mg     2  2.000    3b  0.      0.      1/2       0.9975
+      C      1  4.000    6c  0.      0.      0.24266
+      O      1 -2.000   18f  0.24762-0.03535 0.24406
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0099  0.0099  0.0006  0.0049  0.0000  0.0000
+      Mg 1    0.0099  0.0099  0.0006  0.0049  0.0000  0.0000
+      Ca 2    0.0072  0.0072  0.0006  0.0036  0.0000  0.0000
+      Mg 2    0.0072  0.0072  0.0006  0.0036  0.0000  0.0000
+      C  1    0.0080  0.0080  0.0006  0.0040  0.0000  0.0000
+      O  1    0.0084  0.0140  0.0011  0.0063 -0.0003 -0.0009
+ RVAL 0.018
+
+ COL  ICSD Collection Code 31210
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate - prepared under 11kbar and 1050 C
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg0.987 Mn0.002 Fe0.001 (C O3)2
+ TITL Structure refinement of some thermally disordered dolomites
+ REF  American Mineralogist
+      AMMIA 68 (1983) 769-776
+ AUT  Reeder R J, WenkÿHÿR
+ CELL a=4.805 b=4.805 c=16.015 à=90.0 á=90.0 ç=120.0
+      V=320.2 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.        0.9258(14)
+      Mg     1  2.000    3a  0.      0.      0.        0.0742
+      Ca     2  2.000    3b  0.      0.      1/2       0.0756
+      Mg     2  2.000    3b  0.      0.      1/2       0.9244
+      C      1  4.000    6c  0.      0.      0.2436
+      O      1 -2.000   18f  0.2483 -0.0309  0.24475
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0162  0.0162  0.0011  0.0081  0.0000  0.0000
+      Mg 1    0.0162  0.0162  0.0011  0.0081  0.0000  0.0000
+      Ca 2    0.0144  0.0144  0.0011  0.0072  0.0000  0.0000
+      Mg 2    0.0144  0.0144  0.0011  0.0072  0.0000  0.0000
+      C  1    0.0144  0.0144  0.0010  0.0072  0.0000  0.0000
+      O  1    0.0168  0.0218  0.0016  0.0106 -0.0005 -0.0003
+ RVAL 0.043
+
+ COL  ICSD Collection Code 31211
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate - prepared under 11 kbar and 1100 C
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg0.987 Mn0.002 Fe0.001 (C O3)2
+ TITL Structure refinement of some thermally disordered dolomites
+ REF  American Mineralogist
+      AMMIA 68 (1983) 769-776
+ AUT  Reeder R J, WenkÿHÿR
+ CELL a=4.805 b=4.805 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.4 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.        0.8773(12)
+      Mg     1  2.000    3a  0.      0.      0.        0.1227
+      Ca     2  2.000    3b  0.      0.      1/2       0.1241
+      Mg     2  2.000    3b  0.      0.      1/2       0.8759
+      C      1  4.000    6c  0.      0.      0.2442
+      O      1 -2.000   18f  0.2516 -0.0277  0.24514
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0141  0.0141  0.0010  0.0071  0.0000  0.0000
+      Mg 1    0.0141  0.0141  0.0010  0.0071  0.0000  0.0000
+      Ca 2    0.0118  0.0118  0.0010  0.0059  0.0000  0.0000
+      Mg 2    0.0118  0.0118  0.0010  0.0059  0.0000  0.0000
+      C  1    0.0159  0.0159  0.0009  0.0797  0.0000  0.0000
+      O  1    0.0173  0.0256  0.0018  0.0131 -0.0001 -0.0001
+ RVAL 0.041
+
+ COL  ICSD Collection Code 31276
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24287
+      O      1 -2.000   18f  0.24796-0.0347  0.24402
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0097  0.0097  0.0006  0.0048  0.0000  0.0000
+      Mg 1    0.0054  0.0054  0.0005  0.0027  0.0000  0.0000
+      C  1    0.0079  0.0079  0.0006  0.0039  0.0000  0.0000
+      O  1    0.0096  0.0133  0.0011  0.0074 -0.0006 -0.0097
+ REM  DEN (accurate electron density determination)
+ RVAL 0.020
+
+ COL  ICSD Collection Code 31277
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24287
+      O      1 -2.000   18f  0.24772-0.03463 0.24407
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0090  0.0090  0.0005  0.0040  0.0000  0.0000
+      Mg 1    0.0058  0.0058  0.0005  0.0029  0.0000  0.0000
+      C  1    0.0058  0.0058  0.0005  0.0029  0.0000  0.0000
+      O  1    0.0074  0.0113  0.0009  0.0063 -0.0006 -0.0094
+ REM  DEN (accurate electron density determination)
+ REM  NDS (neutron diffraction from a single crystal)
+ RVAL 0.030
+
+ COL  ICSD Collection Code 31332
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24293
+      O      1 -2.000   18f  0.2479 -0.03468 0.24402
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0098  0.0098  0.0006  0.0049  0.0000  0.0000
+      Mg 1    0.0057  0.0057  0.0005  0.0028  0.0000  0.0000
+      C  1    0.0078  0.0078  0.0006  0.0039  0.0000  0.0000
+      O  1    0.0097  0.0134  0.0011  0.0075 -0.0006 -0.0096
+ REM  DEN (accurate electron density determination)
+ RVAL 0.014
+
+ COL  ICSD Collection Code 31333
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24293
+      O      1 -2.000   18f  0.24787 0.03468 0.24401
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0092  0.0092  0.0006  0.0046  0.0000  0.0000
+      Mg 1    0.0058  0.0058  0.0005  0.0029  0.0000  0.0000
+      C  1    0.0080  0.0080  0.0006  0.0040  0.0000  0.0000
+      O  1    0.0098  0.0134  0.0011  0.0075 -0.0006 -0.0096
+ REM  DEN (accurate electron density determination)
+ RVAL 0.015
+
+ COL  ICSD Collection Code 31334
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24296
+      O      1 -2.000   18f  0.24788-0.03462 0.24399
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0104  0.0104  0.0007  0.0052  0.0000  0.0000
+      Mg 1    0.0064  0.0064  0.0005  0.0032  0.0000  0.0000
+      C  1    0.0085  0.0085  0.0007  0.0042  0.0000  0.0000
+      O  1    0.0103  0.0139  0.0011  0.0077 -0.0006 -0.0096
+ REM  DEN (accurate electron density determination)
+ RVAL 0.016
+
+ COL  ICSD Collection Code 31335
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24287
+      O      1 -2.000   18f  0.24796-0.03471 0.24402
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0097  0.0097  0.0006  0.0049  0.0000  0.0000
+      Mg 1    0.0054  0.0054  0.0005  0.0027  0.0000  0.0000
+      C  1    0.0074  0.0074  0.0006  0.0037  0.0000  0.0000
+      O  1    0.0093  0.0131  0.0010  0.0073 -0.0006 -0.0096
+ REM  DEN (accurate electron density determination)
+ RVAL 0.017
+
+ COL  ICSD Collection Code 31336
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24288
+      O      1 -2.000   18f  0.24795-0.03473 0.24402
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0097  0.0097  0.0006  0.0049  0.0000  0.0000
+      Mg 1    0.0054  0.0054  0.0005  0.0027  0.0000  0.0000
+      C  1    0.0079  0.0079  0.0006  0.0040  0.0000  0.0000
+      O  1    0.0096  0.0134  0.0011  0.0075 -0.0006 -0.0097
+ REM  DEN (accurate electron density determination)
+ RVAL 0.017
+
+ COL  ICSD Collection Code 31337
+ DATE Recorded Dec 31, 1983
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberhof, Steiermark, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Untersuchungen zur Elektronendichteverteilung im Dolomit Ca Mg (C 
+      O3)2
+ REF  TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen 
+      (1979-)
+      TTMMD 31 (1983) 151-164
+ AUT  Effenberger H, KirfelÿA, WillÿG
+ CELL a=4.808 b=4.808 c=16.022 à=90.0 á=90.0 ç=120.0
+      V=320.8 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24291
+      O      1 -2.000   18f  0.24739-0.03473 0.24389
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0095  0.0095  0.0006  0.0047  0.0000  0.0000
+      Mg 1    0.0056  0.0056  0.0005  0.0028  0.0000  0.0000
+      C  1    0.0075  0.0075  0.0006  0.0037  0.0000  0.0000
+      O  1    0.0096  0.0129  0.0011  0.0071 -0.0006 -0.0093
+ REM  DEN (accurate electron density determination)
+ RVAL 0.017
+
+ COL  ICSD Collection Code 100416
+ DATE Recorded Jan 1, 1980; updated Mar 3, 1989
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Oberdorf, Styria, Austria
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca (Mg0.94 Fe0.05 Mn0.01) (C O3)2
+ TITL Refinement and Comparison of the Crystal Structures of a Dolomite 
+      and an Fe-rich Ankerite
+ REF  Tschermaks Mineralogische und Petrographische Mitteilungen (-1978)
+      MPMTA 24 (1977) 279-286
+ REF  American Mineralogist
+      AMMIA 44 (1959) 679-682
+ REF  American Mineralogist
+      AMMIA 38 (1953) 207-217
+ AUT  Beran A, ZemannÿJ
+ CELL a=4.812 b=4.812 c=16.020 à=90.0 á=90.0 ç=120.0
+      V=321.3 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2429
+      O      1 -2.000   18f  0.2485 -0.0343  0.2439
+ WYCK f c b a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Ca 1    0.0088  0.0088  0.0004  0.0044  0.0000  0.0000
+      Mg 1    0.0045  0.0045  0.0002  0.0023  0.0000  0.0000
+      C  1    0.0066  0.0066  0.0004  0.0033  0.0000  0.0000
+      O  1    0.0091  0.0130  0.0009  0.0072 -0.0007 -0.0009
+ RVAL 0.029
+
+ COL  ICSD Collection Code 100680
+ DATE Recorded Dec 31, 1981
+ NAME MAGNESIUM CALCIUM bis(carbonate)
+ MINR Dolomite - from Oberdorf, Styria, Austria
+ FORM Mg Ca (C O3)2
+      = C2 Ca Mg O6
+ TITL Crystal structure refinements of Magnesite, Calcite, 
+      Rhodochrosite, Siderite, Smithonite, and Dolomite, with the 
+      discussion of some aspects of the stereochemistry of Calcite type 
+      carbonates
+ REF  Zeitschrift fuer Kristallographie (149,1979-)
+      ZEKRD 156 (1981) 233-243
+ AUT  Effenberger H, MereiterÿK, ZemannÿJ
+ CELL a=4.812 b=4.812 c=16.020 à=90.0 á=90.0 ç=120.0
+      V=321.3 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.24287
+      O      1 -2.000   18f  0.24802-0.03471 0.24401
+ WYCK f c b a
+ÿ
+ TF   Atom   U(1,1)  U(2,2)  U(3,3)  U(1,2)  U(1,3)  U(2,3)
+      Ca 1    0.0085  0.0085  0.0080  0.0000  0.0000  0.0000
+      Mg 1    0.0041  0.0041  0.0058  0.0000  0.0000  0.0000
+      C  1    0.0066  0.0066  0.0076  0.0000  0.0000  0.0000
+      O  1    0.0078  0.0113  0.0136  0.0063 -0.0021 -0.0032
+ RVAL 0.021
+
+ COL  ICSD Collection Code 202162
+ DATE Recorded Dec 19, 1988
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eocene, Jamaica
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ TITL TEM observations and X-ray crystal-structure refinement of a 
+      twinned dolomite with a modulated microstructure
+ REF  American Mineralogist
+      AMMIA 72 (1987) 188-193
+ AUT  Miser D E, SwinneaÿJÿS, SteinfinkÿH
+ CELL a=4.811 b=4.811 c=16.047 à=90.0 á=90.0 ç=120.0
+      V=321.7 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.243
+      O      1 -2.000   18f  0.2476  0.965   0.2441
+ WYCK f c b a
+ÿ
+ TF   Atom   U(1,1)  U(2,2)  U(3,3)  U(1,2)  U(1,3)  U(2,3)
+      Ca 1    0.0108  0.0108  0.0113  0.0054  0.0000  0.0000
+      Mg 1    0.0069  0.0069  0.0098  0.0034  0.0000  0.0000
+      C  1    0.0099  0.0099  0.0080  0.0049  0.0000  0.0000
+      O  1    0.0096  0.0140  0.0167  0.0072 -0.0023 -0.0030
+ REM  MOD (modulated/incommensurate structure)
+ REM  TWI (twinned crystal)
+ RVAL 0.025
+
+ COL  ICSD Collection Code 66333
+ DATE Recorded Jan 6, 1993
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg.987 Fe.01 Mn.002 (C O3)2
+ TITL High-pressure structural study of dolomite and ankerite
+ REF  American Mineralogist
+      AMMIA 77 (1992) 412-421
+ AUT  Ross N L, ReederÿRÿJ
+ CELL a=4.806 b=4.806 c=16.006 à=90.0 á=90.0 ç=120.0
+      V=320.2 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2431
+      O      1 -2.000   18f  0.2482 -0.0357  0.244
+ WYCK f c b a
+ ITF  Ca  1   B=0.71(3)
+ ITF  Mg  1   B=0.50(4)
+ ITF  C   1   B=0.73(7)
+ ITF  O   1   B=0.84(4)
+ RVAL 0.027
+
+ COL  ICSD Collection Code 66334
+ DATE Recorded Jan 6, 1993
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg.987 Fe.01 Mn.002 (C O3)2
+ TITL High-pressure structural study of dolomite and ankerite
+ REF  American Mineralogist
+      AMMIA 77 (1992) 412-421
+ AUT  Ross N L, ReederÿRÿJ
+ CELL a=4.791 b=4.791 c=15.856 à=90.0 á=90.0 ç=120.0
+      V=315.2 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2434
+      O      1 -2.000   18f  0.2485 -0.0355  0.2443
+ WYCK f c b a
+ ITF  Ca  1   B=0.79(6)
+ ITF  Mg  1   B=0.46(8)
+ ITF  C   1   B=0.87(13)
+ ITF  O   1   B=0.93(7)
+ REM  PRE 1.5
+ RVAL 0.035
+
+ COL  ICSD Collection Code 66335
+ DATE Recorded Jan 6, 1993
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg.987 Fe.01 Mn.002 (C O3)2
+ TITL High-pressure structural study of dolomite and ankerite
+ REF  American Mineralogist
+      AMMIA 77 (1992) 412-421
+ AUT  Ross N L, ReederÿRÿJ
+ CELL a=4.778 b=4.778 c=15.730 à=90.0 á=90.0 ç=120.0
+      V=311.0 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2426
+      O      1 -2.000   18f  0.2488 -0.0359  0.2442
+ WYCK f c b a
+ ITF  Ca  1   B=0.88(6)
+ ITF  Mg  1   B=0.50(7)
+ ITF  C   1   B=0.68(11)
+ ITF  O   1   B=0.93(6)
+ REM  PRE 2.9
+ RVAL 0.032
+
+ COL  ICSD Collection Code 66336
+ DATE Recorded Jan 6, 1993
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg.987 Fe.01 Mn.002 (C O3)2
+ TITL High-pressure structural study of dolomite and ankerite
+ REF  American Mineralogist
+      AMMIA 77 (1992) 412-421
+ AUT  Ross N L, ReederÿRÿJ
+ CELL a=4.770 b=4.770 c=15.653 à=90.0 á=90.0 ç=120.0
+      V=308.5 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2416
+      O      1 -2.000   18f  0.2496 -0.0359  0.2443
+ WYCK f c b a
+ ITF  Ca  1   B=0.84(5)
+ ITF  Mg  1   B=0.42(6)
+ ITF  C   1   B=0.47(9)
+ ITF  O   1   B=0.79(5)
+ REM  PRE 3.7
+ RVAL 0.032
+
+ COL  ICSD Collection Code 66337
+ DATE Recorded Jan 6, 1993
+ NAME Calcium magnesium carbonate
+ MINR Dolomite - from Eugui, Spain
+ FORM Ca Mg (C O3)2
+      = C2 Ca Mg O6
+ FORM Ca1.001 Mg.987 Fe.01 Mn.002 (C O3)2
+ TITL High-pressure structural study of dolomite and ankerite
+ REF  American Mineralogist
+      AMMIA 77 (1992) 412-421
+ AUT  Ross N L, ReederÿRÿJ
+ CELL a=4.764 b=4.764 c=15.582 à=90.0 á=90.0 ç=120.0
+      V=306.2 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3a  0.      0.      0.
+      Mg     1  2.000    3b  0.      0.      1/2
+      C      1  4.000    6c  0.      0.      0.2439
+      O      1 -2.000   18f  0.2496 -0.0359  0.2443
+ WYCK f c b a
+ ITF  Ca  1   B=0.76(6)
+ ITF  Mg  1   B=0.46(8)
+ ITF  C   1   B=0.65(11)
+ ITF  O   1   B=0.82(5)
+ REM  PRE 4.69
+ RVAL 0.034
+
+ COL  ICSD Collection Code 71004
+ DATE Recorded Jan 6, 1993
+ NAME Calcium manganese iron magnesium carbonate (1/.6/.1/.2/2)
+ MINR Kutnohorite - from Chvaletice, C.S.F.R.
+ MINR Dolomite
+ FORM (Ca0.82 Mn0.18) (Ca0.18 Mn0.46 Fe0.13 Mg0.23) (C O3)2
+      = C2 Ca Fe.13 Mg.23 Mn.64 O6
+ TITL The crystal structure of kutnohorite CaMn(CO3)2
+ REF  Neues Jahrbuch fuer Mineralogie. Monatshefte (Band=Jahr) (1950-)
+      NJMMA 1988 (1988) 539-546  Issue 12
+ AUT  Farkas L, BolzeniusÿBÿH, SchaeferÿW, WillÿG
+ CELL a=4.852 b=4.852 c=16.217 à=90.0 á=90.0 ç=120.0
+      V=330.6 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3b  0.      0.      1/2       0.18
+      Mg     1  2.000    3b  0.      0.      1/2       0.23
+      Mn     1  2.000    3b  0.      0.      1/2       0.46
+      Fe     1  2.000    3b  0.      0.      1/2       0.13
+      Ca     2  2.000    3a  0.      0.      0.        0.82
+      Mn     2  2.000    3a  0.      0.      0.        0.18
+      C      1  4.000    6c  0.      0.      0.252
+      O      1 -2.000   18f  0.25   -0.027   0.245
+ WYCK f c b a
+ ITF  Ca  1   B=0.9(1)
+ ITF  Mg  1   B=0.9(1)
+ ITF  Mn  1   B=0.9(1)
+ ITF  Fe  1   B=0.9(1)
+ ITF  Ca  2   B=0.9(1)
+ ITF  Mn  2   B=0.9(1)
+ ITF  C   1   B=0.9(1)
+ ITF  O   1   B=0.9(1)
+ REM  XDP (X-ray diffraction from a powder)
+ RVAL 0.055
+
+ COL  ICSD Collection Code 71005
+ DATE Recorded Jan 6, 1993
+ NAME Calcium manganese iron magnesium carbonate (1/.6/.1/.2/2)
+ MINR Kutnohorite - from Chvaletice, C.S.F.R.
+ MINR Dolomite
+ FORM (Ca0.86 Mn0.14) (Ca0.14 Mn0.50 Fe0.13 Mg0.23) (C O3)2
+      = C2 Ca Fe.13 Mg.23 Mn.64 O6
+ TITL The crystal structure of kutnohorite CaMn(CO3)2
+ REF  Neues Jahrbuch fuer Mineralogie. Monatshefte (Band=Jahr) (1950-)
+      NJMMA 1988 (1988) 539-546  Issue 12
+ AUT  Farkas L, BolzeniusÿBÿH, SchaeferÿW, WillÿG
+ CELL a=4.852 b=4.852 c=16.217 à=90.0 á=90.0 ç=120.0
+      V=330.6 Z=3
+ SGR  R -3 H        (148) - trigonal
+ CLAS -3    (Hermann-Mauguin) - C3i (Schoenflies)
+ PRS  hR30
+ ANX  ABC2X6
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Ca     1  2.000    3b  0.      0.      1/2       0.14
+      Mg     1  2.000    3b  0.      0.      1/2       0.23
+      Mn     1  2.000    3b  0.      0.      1/2       0.50(7)
+      Fe     1  2.000    3b  0.      0.      1/2       0.13
+      Ca     2  2.000    3a  0.      0.      0.        0.86
+      Mn     2  2.000    3a  0.      0.      0.        0.14
+      C      1  4.000    6c  0.      0.      0.246
+      O      1 -2.000   18f  0.251  -0.022   0.245
+ WYCK f c b a
+ ITF  Ca  1   B=1.5(4)
+ ITF  Mg  1   B=1.5(4)
+ ITF  Mn  1   B=1.5(4)
+ ITF  Fe  1   B=1.5(4)
+ ITF  Ca  2   B=1.5(4)
+ ITF  Mn  2   B=1.5(4)
+ ITF  C   1   B=1.5(4)
+ ITF  O   1   B=1.5(4)
+ REM  NDP (neutron diffraction from a powder)
+ RVAL 0.052
+

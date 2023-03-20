@@ -1,0 +1,1037 @@
+spgr=1
+1  P1
+0  A1
+0  B1
+0  C1
+0  I1
+0  F1
+
+spgr=2
+1  P1-
+0  A1-
+0  B1-
+2  C1-
+0  I1-
+0  F1-
+
+spgr=3
+1  P121
+3  P112
+5  P211
+
+spgr=4
+1  P1211
+3  P1121
+5  P2111
+
+spgr=5
+1  C121
+7  A121
+3  A112
+9  B112
+5  B211
+11  C211
+13  I121
+15  I112
+17  I211
+0  I121S
+0  B1211
+
+spgr=6
+1  P1M1
+3  P11M
+5  PM11
+
+spgr=7
+1  P1C1
+13  P1A1
+3  P11A
+15  P11B
+5  PB11
+17  PC11
+7  P1N1
+9  P11N
+11  PN11
+
+spgr=8
+1  C1M1
+7  A1M1
+13  I1M1
+3  A11M
+9  B11M
+15  I11M
+5  BM11
+11  CM11	 
+17  IM11
+
+spgr=9
+1  C1C1
+7  A1N1
+13  I1A1
+2  A1A1
+8  C1N1
+14  I1C1
+3  A11A
+9  B11N
+15  I11B
+4  B11B
+10  A11N
+16  I11A
+5  BB11
+11  CN11
+17  IC11
+6  CC11
+12  BN11
+18  IB11
+0  F41D1
+
+spgr=10
+1  P12/M1
+3  P112/M
+5  P2/M11
+0  P112/MS
+
+spgr=11
+1  P121/M1
+3  P1121/M
+5  P21/M11
+0  P121/M1S
+
+spgr=12
+1  C12/M1
+7  A12/M1
+13  I12/M1
+3  A112/M
+9  B112/M
+15  I112/M
+5  B2/M11
+11  C2/M11
+17  I2/M11
+0  I12/M1S
+0  F12/M1
+
+spgr=13
+1  P12/C1
+7  P12/N1
+13  P12/A1
+3  P112/A
+9  P112/N
+15  P112/B
+5  P2/B11
+11  P2/N11
+17  P2/C11
+0  C112/A
+0  P12/C1S
+
+spgr=14
+1  P121/C1
+7  P121/N1
+13  P121/A1
+3  P1121/A
+9  P1121/N
+15  P1121/B
+5  P21/B11
+11  P21/N11
+17  P21/C11
+
+spgr=15
+1  C12/C1
+7  A12/N1
+13  I12/A1
+3  A112/A
+9  B112/N
+15  I112/B
+5  B2/B11
+11  C2/N11
+17  I2/C11
+0  I21/C1
+0  A12/A1S
+0  B112/BS
+
+spgr=16
+1  P222
+
+spgr=17
+1  P2221
+3  P2122
+5  P2212
+
+spgr=18
+1  P21212
+3  P22121
+5  P21221
+
+spgr=19
+1  P212121
+
+spgr=20
+1  C2221
+3  A2122
+5  B2212
+
+spgr=21
+1  C222
+3  A222
+5  B222
+
+spgr=22
+1  F222
+
+spgr=23
+1  I222
+
+spgr=24
+1  I212121
+
+spgr=25
+1  PMM2
+3  P2MM
+5  PM2M
+0  P2MMS
+
+spgr=26
+1  PMC21
+2  PCM21
+3  P21MA
+4  P21AM
+5  PB21M
+6  PM21B
+
+spgr=27
+1  PCC2
+3  P2AA
+5  PB2B
+
+spgr=28
+1  PMA2
+2  PBM2
+3  P2MB
+4  P2CM
+5  PC2M
+6  PM2A
+
+spgr=29
+1  PCA21
+2  PBC21
+3  P21AB
+4  P21CA
+5  PC21B
+6  PB21A
+0  PCA21S
+
+spgr=30
+1  PNC2
+2  PCN2
+3  P2NA
+4  P2AN
+5  PB2N
+6  PN2B
+
+spgr=31
+1  PMN21
+2  PNM21
+3  P21MN
+4  P21NM
+5  PN21M
+6  PM21N
+0  P21MNS
+0  PM21NS
+0  PN21MS
+0  PMN21S
+
+spgr=32
+1  PBA2
+3  P2CB
+5  PC2A
+
+spgr=33
+1  PNA21
+2  PBN21
+3  P21NB
+4  P21CN
+5  PC21N
+6  PN21A
+0  P21CNS
+
+spgr=34
+1  PNN2
+3  P2NN
+5  PN2N
+
+spgr=35
+1  CMM2
+3  A2MM
+5  BM2M
+
+spgr=36
+1  CMC21
+2  CCM21
+3  A21MA
+4  A21AM
+5  BB21M
+6  BM21B
+
+spgr=37
+1  CCC2
+3  A2AA
+5  BB2B
+
+spgr=38
+1  AMM2
+2  BMM2
+3  B2MM
+4  C2MM
+5  CM2M
+6  AM2M
+
+spgr=39
+1  ABM2
+2  BMA2
+3  B2CM
+4  C2MB
+5  CM2A
+6  AC2M
+
+spgr=40
+1  AMA2
+2  BBM2
+3  B2MB
+4  C2CM
+5  CC2M
+6  AM2A
+
+spgr=41
+1  ABA2
+2  BBA2
+3  B2CB
+4  C2CB
+5  CC2A
+6  AC2A
+
+spgr=42
+1  FMM2
+3  F2MM
+5  FM2M
+
+spgr=43
+1  FDD2
+3  F2DD
+5  FD2D
+
+spgr=44
+1  IMM2
+3  I2MM
+5  IM2M
+
+spgr=45
+1  IBA2
+3  I2CB
+5  IC2A
+
+spgr=46
+1  IMA2
+2  IBM2
+3  I2MB
+4  I2CM
+5  IC2M
+6  IM2A
+
+spgr=47
+1  PMMM
+
+spgr=48
+1  PNNNZ
+2  PNNNS
+
+spgr=49
+1  PCCN
+3  PMAA
+5  PBMB
+
+spgr=50
+1  PBANZ
+2  PBANS
+5  PNCBZ
+6  PNCBS
+9  PCNAZ
+10  PCNAS
+
+spgr=51
+1  PMMA
+2  PMMB
+3  PBMM
+4  PCMM
+5  PMCM
+6  PMAM
+
+spgr=52
+1  PNNA
+2  PNNB
+3  PBNN
+4  PCNN
+5  PNCN
+6  PNAN
+0  PNANS
+
+spgr=53
+1  PMNA
+2  PNMB
+3  PBMN
+4  PCNM
+5  PNCM
+6  PMAN
+0  PBMNS
+
+spgr=54
+1  PCCA
+2  PCCB
+3  PBAA
+4  PCAA
+5  PBCB
+6  PBAB
+
+spgr=55
+1  PBAM
+3  PMCB
+5  PCMA
+
+spgr=56
+1  PCCN
+3  PNAA
+5  PBNB
+
+spgr=57
+1  PBCM
+2  PCAM
+3  PMCA
+4  PMAB
+5  PBMA
+6  PCMB
+
+spgr=58
+1  PNNM
+3  PMNN
+5  PNMN
+
+spgr=59
+1  PMMNZ
+2  PMMNS
+5  PNMMZ
+6  PNMMS
+9  PMNMZ
+10  PMNMS
+9  PMNM
+
+spgr=60
+1  PBCN
+2  PCAN
+3  PNCA
+4  PNAB
+5  PBNA
+6  PCNB
+0  PCNBS
+
+spgr=61
+1  PBCA
+2  PCAB
+
+spgr=62
+1  PNMA
+2  PMNB
+3  PBNM
+4  PCMN
+5  PMCN
+6  PNAM
+0  PBNMS
+0  PMCNS1
+0  PMCNS2
+0  PNAMS
+
+spgr=63
+1  CMCM
+2  CCMM
+3  AMMA
+4  AMAM
+5  BBMM
+6  BMMB
+0  BMMBS
+
+spgr=64
+1  CMCA
+2  CCMB
+3  ABMA
+4  ACAM
+5  BBCM
+6  BMAB
+0  CCMBS
+0  BMABS
+
+spgr=65
+1  CMMM
+3  AMMM
+5  BMMM
+
+spgr=66
+1  CCCM
+3  AMAA
+5  BBMB
+
+spgr=67
+1  CMMA
+2  CMMB
+3  ABMM
+4  ACMM
+5  BMCM
+6  BMAM
+
+spgr=68
+1  CCCAZ
+2  CCCAS
+3  CCCBZ
+4  CCCBS
+5  ABAAZ
+6  ABAAS
+7  ACAAZ
+8  ACAAS
+9  BBCBZ
+10  BBCBS
+11  BBABZ
+12  BBABS
+
+spgr=69
+1  FMMM
+
+spgr=70
+1  FDDDZ
+2  FDDDS
+
+spgr=71
+1  IMMM
+
+spgr=72
+1  IBAM
+3  IMCB
+5  ICMA
+0  IBAMS
+0  ICMAS
+
+spgr=73
+1  IBCA
+2  ICAB
+
+spgr=74
+1  IMMA
+2  IMMB
+3  IBMM
+4  ICMM
+5  IMCM
+6  IMAM
+
+spgr=75
+1  P4
+
+spgr=76
+1  P41
+
+spgr=77
+1  P42
+
+spgr=78
+1  P43
+
+spgr=79
+1  I4
+
+spgr=80
+1  I41
+
+spgr=81
+1  P4-
+
+spgr=82
+1  I4-
+
+spgr=83
+1  P4/M
+
+spgr=84
+1  P42/M
+
+spgr=85
+1  P4/NZ
+2  P4/NS
+
+spgr=86
+1  P42/NZ
+2  P42/NS
+
+spgr=87
+1  I4/M
+
+spgr=88
+1  I41/AZ
+2  I41/AS
+
+spgr=89
+1  P422
+
+spgr=90
+1  P4212
+
+spgr=91
+1  P4122
+
+spgr=92
+1  P41212
+
+spgr=93
+1  P4222
+
+spgr=94
+1  P42212
+
+spgr=95
+1  P4322
+
+spgr=96
+1  P43212
+
+spgr=97
+1  I422
+
+spgr=98
+1  I4122
+
+spgr=99
+1  P4MM
+
+spgr=100
+1  P4BM
+
+spgr=101
+1  P42CM
+
+spgr=102
+1  P42NM
+
+spgr=103
+1  P4CC
+
+spgr=104
+1  P4NC
+
+spgr=105
+1  P42MC
+
+spgr=106
+1  P42BC
+
+spgr=107
+1  I4MM
+
+spgr=108
+1  I4CM
+
+spgr=109
+1  I41MD
+
+spgr=110
+1  I41CD
+
+spgr=111
+1  P4-2M
+
+spgr=112
+1  P4-2C
+
+spgr=113
+1  P4-21M
+
+spgr=114
+1  P4-21C
+
+spgr=115
+1  P4-M2
+
+spgr=116
+1  P4-C2
+
+spgr=117
+1  P4-B2
+0  P4-B2S
+
+spgr=118
+1  P4-N2
+
+spgr=119
+1  I4-M2
+
+spgr=120
+1  I4-C2
+
+spgr=121
+1  I4-2M
+
+spgr=122
+1  I4-2D
+1  I4-2DS
+
+spgr=123
+1  P4/MMM
+
+spgr=124
+1  P4/MCC
+
+spgr=125
+1  P4/NBMZ
+2  P4/NBMS
+
+spgr=126
+1  P4/NNCZ
+2  P4/NNCS
+
+spgr=127
+1  P4/MBM
+
+spgr=128
+1  P4/MNC
+
+spgr=129
+1  P4/NMMZ
+2  P4/NMMS
+0  P4/NMMS1
+
+spgr=130
+1  P4/NCCZ
+2  P4/NCCS
+
+spgr=131
+1  P42/MMC
+0  P42/MMCS
+
+spgr=132
+1  P42/MCM
+
+spgr=133
+1  P42/NBCZ
+2  P42/NBCS
+
+spgr=134
+1  P42/NNMZ
+2  P42/NNMS
+
+spgr=135
+1  P42/MBC
+
+spgr=136
+1  P42/MNM
+
+spgr=137
+1  P42/NMCZ
+2  P42/NMCS
+
+spgr=138
+1  P42/NCMZ
+2  P42/NCMS
+
+spgr=139
+1  I4/MMM
+
+spgr=140
+1  I4/MCM
+
+spgr=141
+1  I41/AMDZ
+2  I41/AMDS
+0  F41/DDM
+
+spgr=142
+1  I41/ACDZ
+2  I41/ACDS
+
+spgr=143
+1  P3
+
+spgr=144
+1  P31
+
+spgr=145
+1  P32
+
+spgr=146
+1  R3H
+2  R3R
+
+spgr=147
+1  P3-
+
+spgr=148
+1  R3-H
+2  R3-R
+0  R3-HR
+
+spgr=149
+1  P312
+
+spgr=150
+1  P321
+
+spgr=151
+1  P3112
+
+spgr=152
+1  P3121
+0  P3121S
+
+spgr=153
+1  P3212
+
+spgr=154
+1  P3221
+0  P3221S
+
+spgr=155
+1  R32H
+2  R32R
+0  R32HR
+
+spgr=156
+1  P3M1
+
+spgr=157
+1  P31M
+
+spgr=158
+1  P3C1
+
+spgr=159
+1  P31C
+
+spgr=160
+1  R3MH
+2  R3MR
+0  R3MHR
+
+spgr=161
+1  R3CH
+2  R3CR
+0  R3CHR
+
+spgr=162
+1  P3-M
+
+spgr=163
+1  P3-1C
+0  P3-1CS
+
+spgr=164
+1  P3-M1
+
+spgr=165
+1  P3-C1
+
+spgr=166
+1  R3-MH
+2  R3-MR
+0  R3-MHR
+
+spgr=167
+1  R3-CH
+2  R3-CR
+0  R3-CRS
+0  R3-CHR
+
+spgr=168
+1  P6
+
+spgr=169
+1  P61
+
+spgr=170
+1  P65
+
+spgr=171
+1  P62
+
+spgr=172
+1  P64
+
+spgr=173
+1  P63
+
+spgr=174
+1  P6-
+
+spgr=175
+1  P6/M
+
+spgr=176
+1  P63/M
+
+spgr=177
+1  P622
+
+spgr=178
+1  P6122
+
+spgr=179
+1  P6522
+
+spgr=180
+1  P6222
+
+spgr=181
+1  P6422
+
+spgr=182
+1  P6322
+
+spgr=183
+1  P6MM
+
+spgr=184
+1  P6CC
+
+spgr=185
+1  P63CM
+
+spgr=186
+1  P63MC
+
+spgr=187
+1  P6-M2
+
+spgr=188
+1  P6-C2
+
+spgr=189
+1  P6-2M
+
+spgr=190
+1  P6-2C
+
+spgr=191
+1  P6/MMM
+
+spgr=192
+1  P6/MCC
+
+spgr=193
+1  P63/MCM
+
+spgr=194
+1  P63/MMC
+
+spgr=195
+1  P23
+
+spgr=196
+1  F23
+
+spgr=197
+1  I23
+
+spgr=198
+1  P213
+
+spgr=199
+1  I213
+
+spgr=200
+1  PM3-
+
+spgr=201
+1  PN3-Z
+2  PN3-S
+
+spgr=202
+1  FM3-
+
+spgr=203
+1  FD3-Z
+2  FD3-S
+
+spgr=204
+1  IM3-
+
+spgr=205
+1  PA3-
+
+spgr=206
+1  IA3-
+
+spgr=207
+1  P432
+
+spgr=208
+1  P4232
+
+spgr=209
+1  F432
+
+spgr=210
+1  F4132
+
+spgr=211
+1  I432
+
+spgr=212
+1  P4332
+
+spgr=213
+1  P4132
+
+spgr=214
+1  I4132
+
+spgr=215
+1  P4-3M
+
+spgr=216
+1  F4-3M
+
+spgr=217
+1  I4-3M
+
+spgr=218
+1  P4-3N
+
+spgr=219
+1  F4-3C
+
+spgr=220
+1  I4-3D
+0  I4-3
+
+spgr=221
+1  PM3-M
+
+spgr=222
+1  PN3-NZ
+2  PN3-NS
+
+spgr=223
+1  PM3-N
+
+spgr=224
+1  PN3-MZ
+2  PN3-MS
+
+spgr=225
+1  FM3-M
+
+spgr=226
+1  FM3-C
+
+spgr=227
+1  FD3-MZ
+2  FD3-MS
+
+spgr=228
+1  FD3-CZ
+
+spgr=229
+1  IM3-M
+
+spgr=230
+1  IA3-D

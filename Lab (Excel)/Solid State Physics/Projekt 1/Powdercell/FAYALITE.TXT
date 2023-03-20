@@ -1,0 +1,34 @@
+ COL  ICSD Collection Code 4353
+ DATE Recorded Jan 1, 1980
+ NAME Iron silicate
+ MINR Fayalite
+ MINR Olivine
+ FORM Fe2 Si O4
+      = Fe2 O4 Si
+ TITL High temperature crystal chemistry of fayalite
+ REF  American Mineralogist
+      AMMIA 60 (1975) 1092-1097
+ AUT  Smyth J R
+ CELL a=4.818 b=10.471 c=6.086 à=90.0 á=90.0 ç=90.0
+      V=307.0 Z=4
+ SGR  P b n m       (62) - orthorhombic
+ CLAS mmm   (Hermann-Mauguin) - D2h (Schoenflies)
+ PRS  oP28
+ ANX  AB2X4
+ PARM Atom__No OxStat  Wyck ---X--- ---Y--- ---Z---  -SOF-
+      Fe     1  2.000    4a  0.      0.      0.
+      Fe     2  2.000    4c  0.9853  0.28    1/4
+      Si     1  4.000    4c  0.4292  0.0975  1/4
+      O      1 -2.000    4c  0.7687  0.0928  1/4
+      O      2 -2.000    4c  0.2076  0.4529  1/4
+      O      3 -2.000    8d  0.2884  0.1637  0.0383
+ WYCK d c4 a
+ÿ
+ TF   Atom   á(1,1)  á(2,2)  á(3,3)  á(1,2)  á(1,3)  á(2,3)
+      Fe 1    0.0035  0.0019  0.0035  0.0002 -0.0006 -0.0004
+      Fe 2    0.0045  0.0013  0.0034  0.0000  0.0000  0.0000
+      Si 1    0.0019  0.0012  0.0034  0.0002  0.0000  0.0000
+      O  1    0.0026  0.0014  0.0049  0.0014  0.0000  0.0000
+      O  2    0.0006  0.0018  0.0029 -0.0006  0.0000  0.0000
+      O  3    0.0035  0.0011  0.0045 -0.0003 -0.0005  0.0007
+ RVAL 0.047
